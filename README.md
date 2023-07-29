@@ -1,6 +1,6 @@
-# Django React App - PMS
+# Django React App - ProjectPro
 
-This is a Project Management System WebApp created using:
+This is a Project Management System WebApp, ProjectPro, created using:
 - Django REST Framework as backend
 - React as frontend
 
